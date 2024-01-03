@@ -9,7 +9,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courier&size=22&pause=1000&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=435&height=120&lines=Computer+Science+professor;Algorithms+for+optimization;Statistics+and+machine+learning;Decision+sciences+and+OR" alt="Typing SVG" /></a>
 </p>
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=iagoac&show_icons=true&include_all_commits=true&theme=dark" alt="Iago Carvalho's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagoac&layout=donut&theme=dark&hide=TeX" /></a> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=iagoac&show_icons=true&include_all_commits=true&theme=github_dark" alt="Iago Carvalho's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagoac&layout=donut&theme=github_dark&hide=TeX" /></a> |
 | ------------- | ------------- |
 <!--
 **iagoac/iagoac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
